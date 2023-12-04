@@ -1,0 +1,18 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "Kristaps",
+      "age": "24",
+      "about": "Macos",
+      "job": "Nav"
+    },
+    {
+      "id": 2,
+      "name": "Peteris",
+      "age": "30",
+      "about": "Kaut kas",
+      "job": "kaut kas"
+    }
+  ]
+}
